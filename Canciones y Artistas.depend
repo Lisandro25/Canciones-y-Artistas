@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1633605962 source:c:\users\lisan\onedrive\documentos\code blocks\canciones y artistas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"SubMenues.h"
+	"funciones.h"
+	"class.h"
+
+1633606399 c:\users\lisan\onedrive\documentos\code blocks\canciones y artistas\funciones.h
+	"class.h"
+
+1633570560 c:\users\lisan\onedrive\documentos\code blocks\canciones y artistas\class.h
+	"funciones.h"
+
+1633605962 c:\users\lisan\onedrive\documentos\code blocks\canciones y artistas\submenues.h
+	"funciones.h"
+
+1658248868 source:c:\users\lisan\onedrive\documentos\code blocks\canciones y artistas\lisandro jimenez. tp registros\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"SubMenues.h"
+	"funciones.h"
+	"class.h"
+
+1658248753 c:\users\lisan\onedrive\documentos\code blocks\canciones y artistas\lisandro jimenez. tp registros\submenues.h
+	"funciones.h"
+
+1658250692 c:\users\lisan\onedrive\documentos\code blocks\canciones y artistas\lisandro jimenez. tp registros\funciones.h
+	"class.h"
+
+1658250252 c:\users\lisan\onedrive\documentos\code blocks\canciones y artistas\lisandro jimenez. tp registros\class.h
+	"funciones.h"
+
+1657664054 c:\users\lisan\onedrive\documentos\code blocks\canciones y artistas\lisandro jimenez. tp registros\rlutil.h
+	<windows.h>
+
